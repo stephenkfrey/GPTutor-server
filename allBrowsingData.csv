@@ -1,0 +1,4 @@
+title,url,content
+Deep Learning Maps Animal Movement,https://www.youtube.com/watch?v=vaUy6zyJfwU," We developed a new type of 3D deep learning approach that can take in normal color videos of behaving animals and behaving humans and then output the precise 3D locations of body landmarks so skeletal joints that you can track over time and thus provide a comprehensive description of how subjects are moving. This is a huge leap forward compared to a traditional motion capture system in which subjects need to wear highly invasive markers on the body. And then another big issue with motion captures that it requires that you have a clear line of sights to these markers and in a deep learning-based approach that we develop, we relieve this requirement."
+test title,test url,test content
+test title,test url,test content
